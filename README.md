@@ -1,0 +1,2 @@
+# quoete-machine
+quote
